@@ -1,0 +1,15 @@
+
+WordCount.java , 字符数： 5462
+WordCount.java , 字符数： 5534
+WordCount.java , 字符数： 5595
+WordCount.java , 字符数： 5639
+WordCount.java , 字符数： 5551
+WordCount.java , 字符数： 5604
+WordCount.java , 字符数： 5587
+WordCount.java , 字符数： 5520
+WordCount.java , 字符数： 5520
+hhh.java , 字符数： 290
+hhh.java , 代码行/注释行/空行  11/0/2
+WordCount.java , 字符数： 5588
+hhh.java , 单词数： 63
+hhh.java , 字符数： 278
